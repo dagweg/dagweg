@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm Dagmawi, a passionate Computer Science student at Addis Ababa University. I have a strong foundation in various programming languages and web development technologies. My goal is to leverage my skills and knowledge to contribute to innovative projects and make a positive impact in the tech industry. In addition, I have hands-on experience with popular web development frameworks and libraries such as Flask, React.js, Node.js, Express.js, and Next.js. I enjoy building dynamic and responsive web applications that deliver seamless user experiences.</p>
+<p align="left">I'm Dagmawi, a passionate Computer Science student at Addis Ababa University. I have a strong foundation in various programming languages and web development technologies. My goal is to leverage my skills and knowledge to contribute to innovative projects and make a positive impact in the tech industry. In addition, I have hands-on experience with popular web development frameworks and libraries such as Flask, React.js, Node.js, Express.js, and Next.js. I enjoy building dynamic and responsive web applications that deliver seamless user experiences.</p>
 
 ###
 
