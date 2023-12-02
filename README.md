@@ -18,9 +18,9 @@ My GitHub profile showcases my proficiency in full stack web development. Here a
 
 ## 📞 Contact Information
 
-- **LinkedIn**: [Dagmawi Wegayehu](https://www.linkedin.com/in/dagmawi-wegayehu)
+- **LinkedIn**: [Dagmawi Wegayehu](https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216)
 - **Email**: dagtef2@gmail.com
-- **Twitter**: [@dagweg]([https://twitter.com/dagweg](https://twitter.com/WDagmawi91788))
+- **Twitter**: [Dagmawi Wegayehu](https://twitter.com/WDagmawi91788)
 
 Feel free to reach out to me through any of these channels! I'm always open to collaborations, discussions, and exciting project opportunities.
 
