@@ -1,63 +1,48 @@
-## Hi there! 👋
 
-I'm Dagmawi Wegayehu, a passionate Computer Science student at Addis Ababa University. I'm dedicated to gaining knowledge, expanding my skill set, and contributing to open-source projects. My GitHub profile reflects my commitment to various areas of interest, including web development, UI design, image processing, and data structures. Let's dive into my GitHub journey and explore my projects together!
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
-## 🌟 Overview
+</p>
 
-- **Active GitHub User**: I joined GitHub in September 2021 and have been active since then. I consistently work on personal projects and actively engage with fellow developers.
-- **Diverse Skill Set**: As a dedicated learner, I have delved into various technologies and programming languages. My coding habits are regular and consistent.
-- **Passion for Web Development**: The majority of my repositories emphasize web development expertise. I'm skilled in TypeScript, CSS, and JavaScript, utilizing frameworks and libraries to create dynamic and visually appealing applications.
+<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-## 👨‍💻 Skill Set and Projects
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-My GitHub profile showcases my proficiency in full stack web development. Here are some highlights from my projects:
+### &nbsp;About Me :
 
-- [task-mate](https://github.com/dagweg/task-mate) - A task management and collaboration web app made for a university software engineering assignment.
-- [Apple-Website-Clone](https://github.com/dagweg/Apple-Website-Clone) - 100% UI replica of Apple
-- [ImaFX](https://github.com/dagweg/ImaFX) - Image processing software [Underdevelopment]
+I am a Full Stack Developer from Ethiopia.
 
-## 📞 Contact Information
+- 🔭 I’m taking my Bachelors in Computer Science and contributing to frontend and backend for building web applications.
+- 🌱 Exploring Software Engineering 
+- ⚡ In my free time I solve problems on Leetcode and Codeforces.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dagmawi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/)
 
-- **LinkedIn**: [Dagmawi Wegayehu](https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216)
-- **Email**: dagtef2@gmail.com
-- **Twitter**: [Dagmawi Wegayehu](https://twitter.com/WDagmawi91788)
+---
 
-Feel free to reach out to me through any of these channels! I'm always open to collaborations, discussions, and exciting project opportunities.
+### 🛠 &nbsp;Languages and Tools :
 
-## 🎉 Contributions and Collaboration
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
 
-While I primarily focus on personal projects, I also value collaborating with others and contributing to the development community.
+---
 
-## 🌎 Open-Source and the Future
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dagweg&theme=cobalt)](https://git.io/streak-stats)
 
-Open-source development and community involvement play crucial roles in both my personal and professional growth. By actively participating in collaborative work and creating personal projects, I aim to expand my knowledge, contribute to innovative solutions, and make a positive impact in the tech industry. 
+![dagweg's Stats](https://github-readme-stats.vercel.app/api?username=dagweg&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![dagweg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dagweg&theme=radical&hide_border=false)
+![dagweg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dagweg&theme=radical&show_icons=true&hide_border=false&layout=compact)
+---
 
-## 🔎 GitHub Stats
-
-Here's a snapshot of my GitHub activity:
-
-![](https://komarev.com/ghpvc/?username=dagweg&abbreviated=true)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dagweg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagweg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dagweg)](https://github.com/dagweg)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dagweg)](https://git.io/streak-stats)
-
-## 🏗️ Development Journey
-
-Throughout my development journey, I have explored numerous programming languages, technologies, and frameworks. Some of the notable tools I am proficient in and continuously learn include:
-
-- React.js
-- Node.js
-- Express.js
-- Next.js
-- Flask
-
-By leveraging these technologies, I strive to build dynamic and responsive web applications that provide users with seamless experiences.
-
-By putting my knowledge and skills into practice, working on innovative projects, and embracing continuous learning, I aim to shape a rewarding and impactful career in the tech industry.
-
-Feel free to browse through my repositories to get a better sense of my coding style, project interests, and areas of expertise. Don't hesitate to contact me if you have any inquiries, collaboration proposals, or exciting challenges to share!
