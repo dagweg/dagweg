@@ -35,6 +35,7 @@ Open-source development and community involvement play crucial roles in both my 
 ## 🔎 GitHub Stats
 
 Here's a snapshot of my GitHub activity:
+![](https://komarev.com/ghpvc/?username=dagweg&abbreviated=true)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dagweg)
 
