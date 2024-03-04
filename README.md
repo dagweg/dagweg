@@ -49,7 +49,5 @@ I am a Full Stack Developer from Ethiopia.
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dagweg&theme=cobalt)](https://git.io/streak-stats)
 ![dagweg's Stats](https://github-readme-stats.vercel.app/api?username=dagweg&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![dagweg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dagweg&theme=radical&hide_border=false)
-![dagweg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dagweg&theme=radical&show_icons=true&hide_border=false&layout=compact)
 ---
 
