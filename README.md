@@ -10,7 +10,7 @@
 I am a Full Stack Developer from Ethiopia.
 
 - 🔭 I’m taking my Bachelors in Computer Science and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Software Engineering 
+- 🌱 Exploring Graphics Programming with PyOpenGL
 - ⚡ In my free time I solve problems on Leetcode and Codeforces.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dagmawi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/)
 
