@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Dagmawi Wegayehu</h1>
-<p align="center"><img src="https://e0.pxfuel.com/wallpapers/914/372/desktop-wallpaper-developer-for-for-programmers-background.jpg" /></p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn     Badge"></a>
 </p>
