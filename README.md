@@ -5,6 +5,8 @@
   <a href="https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn     Badge"></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=dagweg&abbreviated=true)
+
 ### &nbsp;About Me :
 
 I am a Full Stack Developer from Ethiopia.
@@ -44,7 +46,6 @@ I am a Full Stack Developer from Ethiopia.
 
 ---
 
-![](https://komarev.com/ghpvc/?username=dagweg&abbreviated=true)
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dagweg&theme=cobalt)](https://git.io/streak-stats)
