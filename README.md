@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Dagmawi Wegayehu</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">I'm Dagmawi Wegayehu</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn     Badge"></a>
@@ -12,7 +13,7 @@
 I am a Full Stack Developer from Ethiopia.
 
 - 🔭 I’m taking my Bachelors in Computer Science and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Backend Software Engineering
+- 🌱 Exploring Backend Web Development & Having fun with Unity & C#.
 - ⚡ In my free time I solve problems on Leetcode and Codeforces.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dagmawi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/)
 
