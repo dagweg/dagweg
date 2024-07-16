@@ -15,7 +15,7 @@ I am a Full Stack Developer from Ethiopia.
 - ⚡ In my free time I solve problems on Leetcode and Codeforces.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dagmawi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/)
 
-Check out my [Portfolio](https://dagweg.vercel.app)  |  Download my [Resume](https://drive.google.com/file/d/14VmwyPHbpDaZwldg3dDchv9VUNe_DmFG/view)
+Check out my [Portfolio](https://dagweg.vercel.app)  |  Download my [Resume](https://drive.google.com/file/d/1UVXNkl77rxL02muRBE4CHjIv3-KN9Caf/view?usp=sharing)
 
 ---
 
