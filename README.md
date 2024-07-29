@@ -1,10 +1,10 @@
-<h1 align="center">I'm Dagmawi Wegayehu</h1>
-
+<h1>I'm Dagmawi Wegayehu</h1>
 <p align="center">
+
+![](https://komarev.com/ghpvc/?username=dagweg&abbreviated=true)
   <a href="https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn     Badge"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=dagweg&abbreviated=true)
 
 ### &nbsp;About Me :
 
