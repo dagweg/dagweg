@@ -2,11 +2,8 @@
 <p align="center">
 
   ![](https://komarev.com/ghpvc/?username=dagweg&abbreviated=true)
-  <a href="https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn     Badge"></a>
 </p>
 
-
-### &nbsp;About Me :
 
 I am a Full Stack Developer from Ethiopia.
 
