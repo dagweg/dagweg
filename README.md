@@ -5,14 +5,12 @@
 </p>
 
 
-I am a Full Stack Developer from Ethiopia.
-
 - 🔭 I’m taking my Bachelors in Computer Science and contributing to frontend and backend for building web applications.
 - ⚙️ Exploring Backend Web Development.
 - ⚡ In my free time I solve problems on Leetcode and Codeforces.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dagmawi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/)
 
-Check out my [Portfolio](https://dagweg.vercel.app)  |  [Resume](https://drive.google.com/file/d/1UVXNkl77rxL02muRBE4CHjIv3-KN9Caf/view?usp=sharing)
+- Check out my [Portfolio](https://dagweg.vercel.app)  |  [Resume](https://drive.google.com/file/d/1UVXNkl77rxL02muRBE4CHjIv3-KN9Caf/view?usp=sharing)
 
 ---
 
@@ -46,7 +44,6 @@ Check out my [Portfolio](https://dagweg.vercel.app)  |  [Resume](https://drive.g
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dagweg&theme=cobalt)](https://git.io/streak-stats)
-![dagweg's Stats](https://github-readme-stats.vercel.app/api?username=dagweg&theme=radical&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dagweg&theme=cobalt)](https://git.io/streak-stats) ![dagweg's Stats](https://github-readme-stats.vercel.app/api?username=dagweg&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ---
 
