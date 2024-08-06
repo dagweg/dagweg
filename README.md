@@ -1,49 +1,50 @@
-<h1>I'm Dagmawi Wegayehu</h1>
+<h1>ɪ'ᴍ ᴅᴀɢᴍᴀᴡɪ ᴡᴇɢᴀʏᴇʜᴜ</h1>
 <p align="center">
 
   ![](https://komarev.com/ghpvc/?username=dagweg&abbreviated=true)
 </p>
 
 
-- 🔭 I’m taking my Bachelors in Computer Science and contributing to frontend and backend for building web applications.
-- ⚙️ Exploring Backend Web Development.
-- ⚡ In my free time I solve problems on Leetcode and Codeforces.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dagmawi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/)
+🔭 I'm taking my bachelors in Computer Science & contributing to frontend and backend for building web apps.
 
-- Check out my [Portfolio](https://dagweg.vercel.app)  |  [Resume](https://drive.google.com/file/d/1UVXNkl77rxL02muRBE4CHjIv3-KN9Caf/view?usp=sharing)
+⚙ Specializing in Backend Web Development (Express & ASP).
+
+⚡ In my free time I solve problems on Leetcode.
+
+<a href="https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
+Check out my [ᴘᴏʀᴛꜰᴏʟɪᴏ](https://dagweg.vercel.app)  |  [ʀᴇꜱᴜᴍᴇ](https://drive.google.com/file/d/1UVXNkl77rxL02muRBE4CHjIv3-KN9Caf/view?usp=sharing)
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### Tech Stack
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma ORM"  alt="Prisma ORM" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres"  alt="Postgres" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>&nbsp;
-<img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/a1iakwzbac96qzymzwtq"  title="Clerk"  alt="Clerk" width="55" height="55"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="55" height="55"/>&nbsp;
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="55" height="55"/>&nbsp;
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="55" height="55"/>&nbsp;
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width="55" height="55"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="55" height="55"/>&nbsp;
 </p>
 
 ---
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dagweg&theme=cobalt)](https://git.io/streak-stats) ![dagweg's Stats](https://github-readme-stats.vercel.app/api?username=dagweg&theme=radical&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dagweg&theme=dark)](https://git.io/streak-stats)
+![dagweg's Stats](https://github-readme-stats.vercel.app/api?username=dagweg&theme=dark&show_icons=false&hide_border=false&count_private=true)
 ---
 
