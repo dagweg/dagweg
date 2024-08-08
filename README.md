@@ -44,7 +44,7 @@ Check out my [ᴘᴏʀᴛꜰᴏʟɪᴏ](https://dagweg.vercel.app)  |  [ʀᴇꜱ
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dagweg&theme=dark)](https://git.io/streak-stats)
-![dagweg's Stats](https://github-readme-stats.vercel.app/api?username=dagweg&theme=dark&show_icons=false&hide_border=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dagweg&theme=dark-minimalist&hide_border=true&date_format=%5BY.%5Dn.j&card_width=400)](https://git.io/streak-stats)
+![dagweg's Stats](https://github-readme-stats.vercel.app/api?username=dagweg&theme=radical&show_icons=false&hide_border=true&count_private=true)
 ---
 
