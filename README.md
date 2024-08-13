@@ -1,9 +1,9 @@
 <h1>ɪ'ᴍ ᴅᴀɢᴍᴀᴡɪ ᴡᴇɢᴀʏᴇʜᴜ</h1>
 <p align="center">
 
-  ![](https://komarev.com/ghpvc/?username=dagweg)
+  <!-- ![](https://komarev.com/ghpvc/?username=dagweg) -->
+  ![](https://visitcount.itsvg.in/api?id=dagweg&label=Profile%20Views&color=12&icon=5&pretty=false)
 </p>
-
 
 🔭 I'm taking my bachelors in Computer Science & contributing to frontend and backend for building web apps.
 
