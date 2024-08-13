@@ -1,7 +1,7 @@
 <h1>ɪ'ᴍ ᴅᴀɢᴍᴀᴡɪ ᴡᴇɢᴀʏᴇʜᴜ</h1>
 <p align="center">
 
-  ![](https://komarev.com/ghpvc/?username=dagweg&abbreviated=true)
+  ![](https://komarev.com/ghpvc/?username=dagweg)
 </p>
 
 
