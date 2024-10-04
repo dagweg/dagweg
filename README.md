@@ -1,4 +1,4 @@
-<h1>ɪ'ᴍ ᴅᴀɢᴍᴀᴡɪ ᴡᴇɢᴀʏᴇʜᴜ</h1>
+<h1>I'm Dagmawi Wegayehu</h1>
 <p align="center">
 
   <!-- ![](https://komarev.com/ghpvc/?username=dagweg) -->
@@ -11,9 +11,13 @@
 
 ⚡ In my free time I solve problems on Leetcode.
 
+👨‍💻 Completed my summer internship at Creavers Service PLC.
+
+Reach me out at :
+
 <a href="https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
-Check out my [ᴘᴏʀᴛꜰᴏʟɪᴏ](https://dagweg.vercel.app)  |  [ʀᴇꜱᴜᴍᴇ](https://drive.google.com/file/d/1UVXNkl77rxL02muRBE4CHjIv3-KN9Caf/view?usp=sharing)
+Check out my [Portfolio](https://dagweg.vercel.app)  or  [Resume](https://drive.google.com/file/d/1ufNh8K1eUHtSdm1QcYLSuptpaVIRgMQY/view?usp=sharing)
 
 ---
 
