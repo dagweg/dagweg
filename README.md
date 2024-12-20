@@ -5,13 +5,15 @@
   ![](https://visitcount.itsvg.in/api?id=dagweg&label=Profile%20Views&color=12&icon=5&pretty=false)
 </p>
 
-🔭 I'm taking my bachelors in Computer Science & contributing to frontend and backend for building web apps.
+🔭 I'm taking my bachelors in _**Computer Science**_ as Addis Ababa University.
 
-⚙ Specializing in Backend Web Development (Express & ASP).
+⚙ Specializing in _**Backend Web Development**_ with **ASP.NET Core**. 
 
-⚡ In my free time I solve problems on Leetcode.
+🖥️ Learning how _**Large Scale applications**_ are built and maintained.
 
-👨‍💻 Completed my summer internship at Creavers Service PLC.
+⚡ In my free time I solve problems on **Leetcode**.
+
+👨‍💻 Completed my summer internship at **Creavers Service PLC**.
 
 Reach me out at :
 
@@ -53,7 +55,7 @@ Check out my [Portfolio](https://dagweg.vercel.app)  or  [Resume](https://drive.
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=dagweg&theme=dark-minimalist&hide_border=true&date_format=%5BY.%5Dn.j&card_width=350&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dagweg&theme=github-dark-blue&hide_border=true&short_numbers=true&card_width=500&card_height=200)](https://git.io/streak-stats)
 ![dagweg's Stats](https://github-readme-stats.vercel.app/api?username=dagweg&theme=radical&show_icons=false&hide_border=true&count_private=true)
 ---
 
