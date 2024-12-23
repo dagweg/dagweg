@@ -5,7 +5,7 @@
   ![](https://visitcount.itsvg.in/api?id=dagweg&label=Profile%20Views&color=12&icon=5&pretty=false)
 </p>
 
-🔭 I'm taking my bachelors in _**Computer Science**_ as Addis Ababa University.
+🔭 I'm taking my bachelors in _**Computer Science**_ at Addis Ababa University.
 
 ⚙ Specializing in _**Backend Web Development**_ with **ASP.NET Core**. 
 
@@ -13,13 +13,13 @@
 
 ⚡ In my free time I solve problems on **Leetcode**.
 
-👨‍💻 Completed my summer internship at **Creavers Service PLC**.
+👨‍💻 Completed my summer internship at **Creavers Service PLC** as a **.NET Developer**.
 
-Reach me out at :
+<a href="https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://t.me/dagweg" target="_blank"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+<a href="https://dagweg.vercel.app" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20My%20Portfolio-gray?style=for-the-badge&logo=&logoColor=white" alt="Portfolio Badge"></a>
+<a href="https://drive.google.com/file/d/1ufNh8K1eUHtSdm1QcYLSuptpaVIRgMQY/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%9C%20My%20Resume-purple?style=for-the-badge&logo=&logoColor=white" alt="Resume Badge"></a>
 
-<a href="https://www.linkedin.com/in/dagmawi-wegayehu-6a2057216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-
-Check out my [Portfolio](https://dagweg.vercel.app)  or  [Resume](https://drive.google.com/file/d/1ufNh8K1eUHtSdm1QcYLSuptpaVIRgMQY/view?usp=sharing)
 
 ---
 
