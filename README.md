@@ -1,12 +1,11 @@
 <!--<img align="top" alt="Top" style="width:100%;" src="https://github.com/user-attachments/assets/545e3eb9-6035-4552-abed-8c5759deecbe">-->
 
-
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/MPwe.gif">
-
 # I'm Dagmawi Wegayehu
 
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/MPwe.gif">
+
 ![](https://komarev.com/ghpvc/?username=dagweg)
-  
+
 <p align="center">
   <!--![](https://visitcount.itsvg.in/api?id=dagweg&label=Profile%20Views&color=12&icon=5&pretty=false) -->
 </p>
