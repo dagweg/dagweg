@@ -1,8 +1,14 @@
-<h1>I'm Dagmawi Wegayehu</h1>
-<p align="center">
+<!--<img align="top" alt="Top" style="width:100%;" src="https://github.com/user-attachments/assets/545e3eb9-6035-4552-abed-8c5759deecbe">-->
 
-  <!-- ![](https://komarev.com/ghpvc/?username=dagweg) -->
-  ![](https://visitcount.itsvg.in/api?id=dagweg&label=Profile%20Views&color=12&icon=5&pretty=false)
+
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/MPwe.gif">
+
+# I'm Dagmawi Wegayehu
+
+![](https://komarev.com/ghpvc/?username=dagweg)
+  
+<p align="center">
+  <!--![](https://visitcount.itsvg.in/api?id=dagweg&label=Profile%20Views&color=12&icon=5&pretty=false) -->
 </p>
 
 🔭 I'm taking my bachelors in _**Computer Science**_ at Addis Ababa University.
@@ -21,7 +27,6 @@
 <a href="https://drive.google.com/file/d/1ufNh8K1eUHtSdm1QcYLSuptpaVIRgMQY/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%9C%20My%20Resume-purple?style=for-the-badge&logo=&logoColor=white" alt="Resume Badge"></a>
 
 
----
 
 ### Tech Stack
 
@@ -50,12 +55,3 @@
 <img alt="bash" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width="55" height="55"/>&nbsp;
 <img alt="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="55" height="55"/>&nbsp;
 </p>
-
----
-
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=dagweg&theme=github-dark-blue&hide_border=true&short_numbers=true&card_width=500&card_height=200)](https://git.io/streak-stats)
-![dagweg's Stats](https://github-readme-stats.vercel.app/api?username=dagweg&theme=radical&show_icons=false&hide_border=true&count_private=true)
----
-
