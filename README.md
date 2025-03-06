@@ -22,6 +22,7 @@
 <a href="https://t.me/dagweg" target="_blank"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 <a href="https://dagweg.vercel.app" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20My%20Portfolio-gray?style=for-the-badge&logo=&logoColor=white" alt="Portfolio Badge"></a>
 <a href="https://drive.google.com/file/d/1ufNh8K1eUHtSdm1QcYLSuptpaVIRgMQY/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%9C%20My%20Resume-purple?style=for-the-badge&logo=&logoColor=white" alt="Resume Badge"></a>
+<a href="https://leetcode.com/u/dag_weg/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-282828?style=for-the-badge&logo=leetcode&logoColor=" alt="Leetcode Badge"></a>
 
 
 
